@@ -1,0 +1,120 @@
+{
+  "StartStop": {
+    "short": "Start or stop playback"
+  },
+  "Play": {
+    "short": "Start playback"
+  },
+  "Stop": {
+    "short": "Stop playback"
+  },
+  "Record": {
+    "short": "Start recording"
+  },
+  "Return to Zero": {
+    "short": "Move playhead to the beginning of the project"
+  },
+  "Goto End": {
+    "short": "Move playhead to the end of the project"
+  },
+  "Cycle": {
+    "short": "Toggle loop playback on/off"
+  },
+  "Set Left Locator": {
+    "short": "Set the left locator (loop start) to the current playhead position"
+  },
+  "Set Right Locator": {
+    "short": "Set the right locator (loop end) to the current playhead position"
+  },
+  "Locators to Selection": {
+    "short": "Set locators to match the current selection range"
+  },
+  "Locate Selection": {
+    "short": "Move playhead to the start of the current selection"
+  },
+  "Locate Selection End": {
+    "short": "Move playhead to the end of the current selection"
+  },
+  "Play from Selection Start": {
+    "short": "Start playback from the beginning of the selection"
+  },
+  "Play Selection Range": {
+    "short": "Play only the selected range"
+  },
+  "Auto Punch In": {
+    "short": "Toggle automatic punch-in recording"
+  },
+  "Auto Punch Out": {
+    "short": "Toggle automatic punch-out recording"
+  },
+  "Undo": {
+    "short": "Undo the last action"
+  },
+  "Redo": {
+    "short": "Redo the last undone action"
+  },
+  "Cut": {
+    "short": "Cut selected items to clipboard"
+  },
+  "Copy": {
+    "short": "Copy selected items to clipboard"
+  },
+  "Paste": {
+    "short": "Paste items from clipboard"
+  },
+  "Duplicate": {
+    "short": "Duplicate selected items"
+  },
+  "Delete": {
+    "short": "Delete selected items"
+  },
+  "Select All": {
+    "short": "Select all items in the project"
+  },
+  "Deselect All": {
+    "short": "Deselect all items"
+  },
+  "Show/Hide Overview": {
+    "short": "Toggle the overview window visibility"
+  },
+  "Start Left": {
+    "short": "Nudge selection start position to the left"
+  },
+  "Start Right": {
+    "short": "Nudge selection start position to the right"
+  },
+  "End Left": {
+    "short": "Nudge selection end position to the left"
+  },
+  "End Right": {
+    "short": "Nudge selection end position to the right"
+  },
+  "Top Up": {
+    "short": "Nudge selection top edge upward"
+  },
+  "Top Down": {
+    "short": "Nudge selection top edge downward"
+  },
+  "Bottom Up": {
+    "short": "Nudge selection bottom edge upward"
+  },
+  "Bottom Down": {
+    "short": "Nudge selection bottom edge downward"
+  },
+  "Left": {
+    "short": "Nudge selection to the left"
+  },
+  "Right": {
+    "short": "Nudge selection to the right"
+  },
+  "Up": {
+    "short": "Nudge selection upward"
+  },
+  "Down": {
+    "short": "Nudge selection downward"
+  },
+  "Crossfade": {
+    "short": "Create crossfades between overlapping audio events"
+  }
+}
+

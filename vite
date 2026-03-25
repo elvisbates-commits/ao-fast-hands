@@ -1,0 +1,22 @@
+
+Port 5173 is in use, trying another one...
+
+  VITE v5.4.21  ready in 245 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+4:16:11 PM [vite] hmr update /src/components/Quiz.tsx
+4:16:35 PM [vite] hmr update /src/components/Quiz.tsx (x2)
+4:16:45 PM [vite] hmr update /src/components/Quiz.tsx (x3)
+4:21:05 PM [vite] hmr update /src/App.tsx
+4:21:12 PM [vite] hmr update /src/App.tsx (x2)
+4:21:12 PM [vite] hmr update /src/components/Study.tsx
+4:46:06 PM [vite] hmr update /src/App.tsx
+4:46:15 PM [vite] hmr update /src/App.tsx (x2)
+4:46:17 PM [vite] hmr update /src/App.tsx (x3)
+4:46:29 PM [vite] hmr update /src/components/Explore.tsx
+4:46:29 PM [vite] hmr update /src/App.tsx
+^Cmacpro2019@Macs-Mac-Pro AO_Fast Hands % > fast-hands@0.1.0 dev
+zsh: command not found:close
+

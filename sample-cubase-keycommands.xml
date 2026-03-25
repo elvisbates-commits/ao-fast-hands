@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KeyCommands>
+  <KeyCommand>
+    <Name>Set Left Locator</Name>
+    <Category>Transport</Category>
+    <Shortcut>Ctrl+L</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Set Right Locator</Name>
+    <Category>Transport</Category>
+    <Shortcut>Ctrl+R</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Play</Name>
+    <Category>Transport</Category>
+    <Shortcut>Space</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Stop</Name>
+    <Category>Transport</Category>
+    <Shortcut>Shift+Space</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Record</Name>
+    <Category>Transport</Category>
+    <Shortcut>Ctrl+R</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Save</Name>
+    <Category>File</Category>
+    <Shortcut>Ctrl+S</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Undo</Name>
+    <Category>Edit</Category>
+    <Shortcut>Ctrl+Z</Shortcut>
+  </KeyCommand>
+  <KeyCommand>
+    <Name>Redo</Name>
+    <Category>Edit</Category>
+    <Shortcut>Ctrl+Shift+Z</Shortcut>
+  </KeyCommand>
+</KeyCommands>
+
